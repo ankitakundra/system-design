@@ -621,6 +621,8 @@ Following are some of the most common cache eviction policies:
 - **Least Frequently Used (LFU)**: Counts how often an item is needed. Those that are used least often are discarded first.
 - **Random Replacement (RR)**: Randomly selects a candidate item and discards it to make space when necessary.
 
+https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/
+
 ## Distributed Cache
 
 ![distributed-cache](https://raw.githubusercontent.com/karanpratapsingh/portfolio/master/public/static/courses/system-design/chapter-I/caching/distributed-cache.png)
